@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 20% 20%, #feda75 0%, transparent 35%),
+    radial-gradient(circle at 80% 20%, #d62976 0%, transparent 40%),
+    radial-gradient(circle at 50% 90%, #4f5bd5 0%, transparent 45%),
+    linear-gradient(135deg, #833ab4, #fd1d1d, #fcb045);
+
+  font-family: Arial, sans-serif;
+}
